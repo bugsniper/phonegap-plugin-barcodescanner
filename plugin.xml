@@ -132,7 +132,6 @@
         <source-file src="src/android/LibraryProject/res/menu/history.xml" target-dir="res/menu"/>
         <source-file src="src/android/LibraryProject/res/raw/beep.ogg" target-dir="res/raw"/>
         <source-file src="src/android/LibraryProject/res/values/arrays.xml" target-dir="res/values"/>
-        <source-file src="src/android/LibraryProject/res/values/colors.xml" target-dir="res/values"/>
         <source-file src="src/android/LibraryProject/res/values/dimens.xml" target-dir="res/values"/>
         <source-file src="src/android/LibraryProject/res/values/ids.xml" target-dir="res/values"/>
         <source-file src="src/android/LibraryProject/res/xml/preferences.xml" target-dir="res/xml"/>
